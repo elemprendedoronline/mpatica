@@ -11,8 +11,8 @@
   url: /about
 - text: Blog
   url: /blog
-- text: Services
-  url: /services
+- text: Servicios
+  url: /nuestros-servicios.html
 - text: Pages
   url: /
   submenu:
