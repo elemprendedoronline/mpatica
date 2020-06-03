@@ -1,0 +1,13 @@
+---
+label: Template_MPATICA
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: header_image
+  label: header_image
+- type: text
+  name: title
+  label: title
