@@ -16,10 +16,10 @@
 - text: Pages
   url: /
   submenu:
-  - text: FAQ
-    url: /faq
-  - text: Pricing
-    url: /pricing
+  - text: Preguntas Frecuentes
+    url: /pfrecuentes
+  - text: Precios
+    url: /precios
   - text: Our Team
     url: /team
   - text: Our Services
