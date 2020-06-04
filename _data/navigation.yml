@@ -13,7 +13,7 @@
   url: /formacion
 - text: Servicios
   url: /nuestros-servicios.html
-- text: Pages
+- text: Otros
   url: /
   submenu:
   - text: Preguntas Frecuentes
