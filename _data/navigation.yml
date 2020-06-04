@@ -1,6 +1,6 @@
 #Please use the main menu items under the "text"
 
-- text: Home
+- text: Inicio
   url: /
   submenu:
   - text: Home 2
