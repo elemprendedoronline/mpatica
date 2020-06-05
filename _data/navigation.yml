@@ -3,34 +3,11 @@
 - text: Inicio
   url: /
   submenu:
-  - text: Home 2
-    url: /index-2
-  - text: Home 3
-    url: index-3
-- text: Modelo
-  url: /modelo
+  - text: Quienes somos
+    url: /about
 - text: Formación
   url: /nuestros-servicios.html
 - text: Servicios
-  url: /nuestros-servicios.html
-- text: Otros
-  url: /
-  submenu:
-  - text: Preguntas Frecuentes
-    url: /pfrecuentes
-  - text: Precios
-    url: /precios
-  - text: Repositorio docentes
-    url: mpatica.com/share
-  - text: Plataforma de aprendizaje
-    url: emprenderelfuturo.com
-  - text: Features
-    url: /features
-  - text: About Us
-    url: /about
-  - text: Contact
-    url: /contact
-  - text: 404
-    url: /404
+  url: /index-2
 - text: Contactos
-  url: /contactos
+  url: /contact
