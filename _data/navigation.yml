@@ -2,9 +2,12 @@
 
 - text: Inicio
   url: /
-- text: 
-  url: /
-- text: 
-  url: /
+  submenu:
+  - text: Quienes somos
+    url: /about
+- text: Formación
+  url: /nuestros-servicios.html
+- text: Servicios
+  url: /index-2
 - text: Contactos
   url: /contact
