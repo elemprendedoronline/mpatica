@@ -3,7 +3,7 @@ email: "info@mpatica.org"
 description: >- # this means to ignore newlines until "baseurl:"
     Modelo educativo MPATICA.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/mpatica" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
+url: "https://www.mpatica.org" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 logo: "/assets/images/logo.png"
 logo_2: "/assets/images/footer-logo.png"
 
