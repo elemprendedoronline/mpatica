@@ -3,8 +3,11 @@
 - text: Inicio
   url: /
 - text: Quienes somos
-  url: /about
-- text: Formación
-  url: /nuestros-servicios.html
+  url: /nosotros
+- text: Docente
+  url: /docente
+- text: Preparación para la U
+  url: /emprendetucarrera
 - text: Contactos
-  url: /contact
+  url: /contactos
+
