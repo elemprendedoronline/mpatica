@@ -4,10 +4,10 @@
   url: /
 - text: Quienes somos
   url: /nosotros
-- text: Docente
+- text: Capacitación Docente
   url: /docente
-- text: Preparación para la U
-  url: /emprendetucarrera
+#- text: Preparación para la U
+#  url: /emprendetucarrera
 - text: Contactos
   url: /contactos
 
